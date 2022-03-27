@@ -28,5 +28,8 @@
 
 - wpa_supplicant.conf
 
-  default wifi config in raspios
+  default wifi config in Raspios
+  
+- clean_C_temp.bat
 
+  clean tempfile from Disk C, see more in file
